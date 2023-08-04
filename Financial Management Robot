@@ -1,0 +1,30 @@
+Date: August 3, 2023, Thursday
+Presenter: Han Bao
+
+Project Name: Financial Management Robot
+
+1. Project Summary:
+Developing a financial management robot to help us manage our finances.
+
+2. Background:
+Our company spends money unevenly, sometimes spending too much, and sometimes too little, leading to financial disarray.
+
+3. Application:
+I will tell the robot how I want to spend money, and it will advise me on whether it is appropriate.
+
+4. Data Source and AI Method:
+Data Name: Disbursements in Trust Funds
+Data Source: The World Bank
+Data Description: Financial data related to trust funds.
+
+AI Methods: Supervised Learning - Provide the machine with examples for learning.
+           Recurrent Neural Networks - Enable the machine to remember what it has learned.
+
+5. Challenges:
+One of the challenges is obtaining relevant data, as it may involve private financial information.
+
+6. Existing Similar AI Applications and Functionality:
+Banks have loan approval robots that assess who should receive loans and who should not.
+
+7. Next Steps:
+Further improve the financial management robot
